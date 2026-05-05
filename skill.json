@@ -1,0 +1,11 @@
+{
+  "name": "vajra-core",
+  "version": "1.0.0",
+  "description": "AI Agent System Optimization Protocol inspired by Diamond Sutra",
+  "entry": "vajra_optimizer.py:VajraOptimizer",
+  "license": "MIT-0",
+  "author": "xuewping",
+  "tags": ["optimization", "context-pruning", "memory-decay", "token-efficiency"],
+  "runtime": "python3",
+  "requires": []
+}
